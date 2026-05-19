@@ -16,6 +16,6 @@ CREATE TABLE OtherTypeDemo (
     order_status VARCHAR(20)
     CHECK (order_status IN ('Pending', 'Shipped', 'Delivered')),
 
-    photo VARBINARY(MAX)
+    photo VARBINARY
 
 );
