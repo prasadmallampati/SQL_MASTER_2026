@@ -1,4 +1,12 @@
---  TOPIC : DATA TYPES IN SQL
+-- Definition
+
+-- A data type tells SQL:
+
+-- what values are allowed
+-- how much storage to use
+-- what operations can be performed
+
+
 --  WHY : WITHOUT DATA TYPE THE DATA SHOULD BE USE MEANING FULL 
 
 
