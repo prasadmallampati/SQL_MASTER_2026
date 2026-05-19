@@ -33,3 +33,4 @@ CREATE TABLE students (
 --  When to use?
 -- At the very beginning of any project — before inserting or querying data.
 
+select * from students;
