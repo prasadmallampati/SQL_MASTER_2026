@@ -16,10 +16,8 @@
 
 -- Create a database
 CREATE DATABASE school;
-go
 -- Use that database
 USE school;
-go
 
 -- Create a table
 CREATE TABLE students (
@@ -32,5 +30,9 @@ CREATE TABLE students (
 
 --  When to use?
 -- At the very beginning of any project — before inserting or querying data.
+
+select * from students;
+
+
 
 select * from students;
