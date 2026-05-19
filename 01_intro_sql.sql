@@ -37,3 +37,6 @@
 
 
 
+-- Simple Analogy
+-- SQL = Organized Excel sheets with strict columns.(mostly in table in sql tables)
+-- NoSQL = Flexible JSON files where each record can look different.
