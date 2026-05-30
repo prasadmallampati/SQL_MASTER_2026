@@ -750,5 +750,32 @@ on table_aaa.id = table_bbb.id;
 
 
 -- cross join (row of table_aaa* rows of tables_bbb(5*4))
+/*
+id  id
+1	1
+2	1
+2	1
+NULL	1
+NULL	1
+1	2
+2	2
+2	2
+NULL	2
+NULL	2
+1	3
+2	3
+2	3
+NULL	3
+NULL	3
+1	NULL
+2	NULL
+2	NULL
+NULL	NULL
+NULL	NULL
 
+
+
+
+
+*/
 select * from table_aaa,table_bbb;
