@@ -40,3 +40,17 @@
 -- Simple Analogy
 -- SQL = Organized Excel sheets with strict columns.(mostly in table in sql tables)
 -- NoSQL = Flexible JSON files where each record can look different.
+
+
+-- DDL -> Creates or modifies table structure.
+-- DML -> Inserts, updates, and deletes data.
+-- DQL -> Retrieves data using SELECT.
+-- DCL -> Grants and revokes user permissions.
+-- TCL -> Commits or rolls back transactions.
+
+
+-- DDL -> Design the Table
+-- DML -> Modify the Data
+-- DQL -> Query the Data
+-- DCL -> Control User Access
+-- TCL -> Transaction Control
